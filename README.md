@@ -56,8 +56,8 @@ both diagrams.
    exactly 5 complete weeks are covered.
 
 3. **Business transformations**: Field validation (vehicle type, engine type),
-   brand code extraction, scope mapping (AFTERSALES → AS, SALES → NV,
-   SHOPPER → SH), model name cleaning, and region normalization are applied.
+   brand code extraction, scope mapping (SALES → NV, POST-SALES → PS,
+   REPAIR → RP), model name cleaning, and region normalization are applied.
 
 4. **NPS bucketing**: Raw scores (0–10) are classified into three standard NPS
    categories: Detractors (1–6), Passives (7–8), Promoters (9–10).

@@ -75,8 +75,8 @@
       {
         "name": "ACTIVITY",
         "type": "text",
-        "values": ["NV", "AS", "SH"],
-        "note": "Touchpoint code: NV=Sales, AS=Aftersales, SH=Shopper."
+        "values": ["NV", "PS", "RP"],
+        "note": "Touchpoint code: NV=Sales, PS=Post-Sales, RP=Repair."
       },
       {
         "name": "REGION",
